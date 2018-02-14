@@ -1,0 +1,15 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+body{
+  background-color: #f8f8ff;
+}
+h1{
+  color: purple;
+  font-size: 3em;
+  text-shadow: 2px 2px #3E3E3E;
+  margin-left: 0.5em;
+}
+#main {
+  margin: 0.5em 1em;
+}
