@@ -10,6 +10,12 @@ h1{
   text-shadow: 2px 2px #3E3E3E;
   margin-left: 0.5em;
 }
+h2{
+  color: gold;
+  font-size: 2em;
+  text-shadow: 1px 1px #000000;
+
+}
 #main {
   margin: 0.5em 1em;
 }
